@@ -1,4 +1,4 @@
-# Checklogin
+## Checklogin
 This is a basic Selenium + Java Maven project for demonstrating automated login testing.
 
 ## Tech Stack
