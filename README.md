@@ -18,3 +18,7 @@ This is a basic Selenium + Java Maven project for demonstrating automated login 
 ## 📁 Test Description
 
 This test simulates logging into a sample website and verifies if the user is redirected to the dashboard page.
+
+## Licence   
+
+This project is licenced under the MIT Licence.
